@@ -10,9 +10,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qzfcu3nep73aelu2p6ve3mmc4m&count=3)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojiwzrd&show_icons=true&theme=synthwave&hide_border=true" height="165" />
-</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,python,php,react,nodejs,laravel,mysql,mongodb" />
