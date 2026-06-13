@@ -8,11 +8,7 @@
 
 <br/>
 
----
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=latesturl&data=followers,repositories,stars&theme=darkmode)](https://github.com/latesturl)
-
----
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzrd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ojiwzrd&style=flat-square&color=FF6B6B&labelColor=000000&label=PROFILE+VIEWS)
 &ensp;
