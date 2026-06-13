@@ -8,22 +8,11 @@
 
 <br/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzrd&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/ojiwzrd)
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzrd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
 ![Profile Views](https://komarev.com/ghpvc/?username=ojiwzrd&label=PROFILE+VIEWS)
-
 &ensp;
-
-[![Followers](https://badges.pufler.dev/followers/ojiwzrd?style=for-the-badge&label=FOLLOWERS&logo=github)](https://github.com/ojiwzrd?tab=followers)
-
-[![Repos](https://badges.pufler.dev/repos/ojiwzrd?style=for-the-badge&logo=github)](https://github.com/ojiwzrd)
-
-[![Stars](https://badges.pufler.dev/stars/ojiwzrd?style=for-the-badge&logo=github)](https://github.com/ojiwzrd)
-
-[![Commits](https://badges.pufler.dev/commits/monthly/ojiwzrd?style=for-the-badge&logo=github)](https://github.com/ojiwzrd)
-
-[![Years](https://badges.pufler.dev/years/ojiwzrd?style=for-the-badge&logo=github)](https://github.com/ojiwzrd)
-
+[![GitHub Followers](https://img.shields.io/github/followers/ojiwzrd?label=FOLLOWERS&logo=github&logoColor=puvler&color=puvler)](https://github.com/ojiwzrd?tab=followers)
+[![Repos Badge](https://img.shields.io/badge/REPOS-puvler?style=for-the-badge&logo=github&logoColor=puvler&color=puvler)](https://github.com/ojiwzrd)
 </div>
 
 <br/>
