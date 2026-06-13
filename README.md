@@ -12,8 +12,6 @@
 [![Years Badge](https://badges.pufler.dev/years/ojiwzrd?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/ojiwzrd?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/ojiwzrd?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-[![Followers Badge](https://badges.pufler.dev/followers/ojiwzrd?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-[![Stars Badge](https://badges.pufler.dev/stars/ojiwzrd?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
 
 <br/>
 
