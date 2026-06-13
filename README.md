@@ -13,11 +13,13 @@
 
 <div align="center">
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
+
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojiwzrd&theme=dark&background=0d1117&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakNum=ffffff&sideNums=FF6B6B&currStreakLabel=FFE66D&sideLabels=ffffff" />
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
+
 </div>
 
 <br/>
