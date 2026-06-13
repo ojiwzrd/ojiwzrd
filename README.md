@@ -17,6 +17,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojiwzrd&theme=dark&background=0d1117&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakNum=ffffff&sideNums=FF6B6B&currStreakLabel=FFE66D&sideLabels=ffffff" />
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
 </div>
 
 <br/>
@@ -49,15 +50,13 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ojiwzrd&color=63a4ff&style=for-the-badge)
-[![Years Badge](https://badges.pufler.dev/years/ojiwzrd?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/ojiwzrd?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ojiwzrd?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/ojiwzrd?style=for-the-badge&color=63a4ff)](https://github.com/ojiwzrd)
+[![Repos Badge](https://badges.pufler.dev/repos/ojiwzrd?style=for-the-badge&color=63a4ff)](https://github.com/ojiwzrd)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/ojiwzrd?style=for-the-badge&color=63a4ff)](https://github.com/ojiwzrd)
 
 <a href="https://instagram.com/ithreew"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://twitter.com/ojiwzrd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
 <a href="mailto:ojiwzrd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-
-
 <a href="https://trakteer.id/ojiwzrd/tip"><img src="https://img.shields.io/badge/Trakteer-ED1E24?style=flat&logo=ko-fi&logoColor=white" /></a>
 <a href="https://saweria.co/ojiwzrd"><img src="https://img.shields.io/badge/Saweria-FF9A00?style=flat&logo=buy-me-a-coffee&logoColor=white" /></a>
 
