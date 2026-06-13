@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,FF6B6B&height=220&section=header&text=OJIWZRD𒁍&fontSize=62&fontColor=FFE66D&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20BLOGGER%20%7C%20DESIGNER&descAlignY=58&descSize=16&descColor=4ECDC4" />
 
 <br/>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzrd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=580&lines=👋+Halo+everyone,+saya+ojiwzrd;Saya+seorang+Developer+dari+Indonesia)](https://github.com/ojiwzrd)
 
@@ -13,7 +14,6 @@
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzrd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
 
 <br/>
 
