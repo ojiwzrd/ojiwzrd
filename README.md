@@ -9,8 +9,7 @@
 <br/>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzrd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ojiwzd?style=for-the-badge&color=63a4ff)(https://github/ojiwzrd)
-![Profile Views](https://komarev.com/ghpvc/?username=ojiwzrd&style=flat-square&color=FF6B6B&labelColor=000000&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ojiwzrd&label=PROFILE+VIEWS)
 &ensp;
 [![GitHub Followers](https://img.shields.io/github/followers/ojiwzrd?style=flat-square&color=FFE66D&labelColor=000000&label=FOLLOWERS&logo=github&logoColor=FF6B6B)](https://github.com/ojiwzrd?tab=followers)
 [![Repos Badge](https://badges.pufler.dev/repos/ojiwzrd?style=for-the-badge&color=63a4ff)](https://github.com/ojiwzd)
