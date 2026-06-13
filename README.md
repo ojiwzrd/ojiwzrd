@@ -8,6 +8,12 @@
 
 <br/>
 
+---
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=latesturl&data=followers,repositories,stars&theme=darkmode)](https://github.com/latesturl)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ojiwzrd&style=flat-square&color=FF6B6B&labelColor=000000&label=PROFILE+VIEWS)
 &ensp;
 [![GitHub Followers](https://img.shields.io/github/followers/ojiwzrd?style=flat-square&color=FFE66D&labelColor=000000&label=FOLLOWERS&logo=github&logoColor=FF6B6B)](https://github.com/ojiwzrd?tab=followers)
