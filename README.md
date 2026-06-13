@@ -10,21 +10,6 @@
 
 <br/>
 
-
-<br/>
-
-<div align="center">
-
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ojiwzrd&theme=dark&background=0d1117&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakNum=ffffff&sideNums=FF6B6B&currStreakLabel=FFE66D&sideLabels=ffffff" />
-
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -70,6 +55,12 @@
 <div align="center">
 
 <br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ojiwzrd&theme=tokyonight">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ojiwzrd&theme=tokyonight">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojiwzrd&theme=tokyonight" width="100%">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ojiwzrd&theme=react-dark&bg_color=0d1117&hide_border=true&color=FFD700&line=FFD700&point=ffffff&area=true)](https://github.com/ojiwzrd)
 
