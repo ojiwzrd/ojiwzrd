@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzrd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
 
 <br/>
 
