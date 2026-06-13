@@ -57,6 +57,7 @@
 <a href="https://twitter.com/ojiwzrd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
 <a href="mailto:ojiwzrd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
+
 <a href="https://trakteer.id/ojiwzrd/tip"><img src="https://img.shields.io/badge/Trakteer-ED1E24?style=flat&logo=ko-fi&logoColor=white" /></a>
 <a href="https://saweria.co/ojiwzrd"><img src="https://img.shields.io/badge/Saweria-FF9A00?style=flat&logo=buy-me-a-coffee&logoColor=white" /></a>
 
