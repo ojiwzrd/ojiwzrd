@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,FF6B6B&height=220&section=header&text=OJIWZRD𒁍&fontSize=62&fontColor=FFE66D&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20BLOGGER%20%7C%20DESIGNER&descAlignY=58&descSize=16&descColor=4ECDC4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,FF6B6B&height=220&section=header&text=THREEW𒁍&fontSize=62&fontColor=FFE66D&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20BLOGGER%20%7C%20DESIGNER&descAlignY=58&descSize=16&descColor=4ECDC4" />
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ojiwzrd&data=followers,repositories,stars&theme=darkmode)](https://github.com/ojiwzrd)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=othreew&data=followers,repositories,stars&theme=darkmode)](https://github.com/othreew)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=580&lines=👋+Halo+everyone,+saya+ojiwzrd;Saya+seorang+Developer+dari+Indonesia)](https://github.com/ojiwzrd)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=580&lines=👋+Halo+everyone,+saya+ojithreew;Saya+seorang+Developer+dari+Indonesia)](https://github.com/othreew)
 
 <br/>
 
@@ -36,10 +36,10 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ojiwzrd&color=63a4ff&style=for-the-badge)
-[![Years Badge](https://badges.pufler.dev/years/ojiwzrd?style=for-the-badge&color=63a4ff)](https://github.com/ojiwzrd)
-[![Repos Badge](https://badges.pufler.dev/repos/ojiwzrd?style=for-the-badge&color=63a4ff)](https://github.com/ojiwzrd)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ojiwzrd?style=for-the-badge&color=63a4ff)](https://github.com/ojiwzrd)
+![Profile Views](https://komarev.com/ghpvc/?username=othreew&color=63a4ff&style=for-the-badge)
+[![Years Badge](https://badges.pufler.dev/years/othreew?style=for-the-badge&color=63a4ff)](https://github.com/othreew)
+[![Repos Badge](https://badges.pufler.dev/repos/othreew?style=for-the-badge&color=63a4ff)](https://github.com/othreew)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/othreew?style=for-the-badge&color=63a4ff)](https://github.com/othreew)
 
 <a href="https://instagram.com/ithreew"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="mailto:ojiwzrd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -56,13 +56,13 @@
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ojiwzrd&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=othreew&theme=tokyonight">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ojiwzrd&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=othreew&theme=tokyonight">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojiwzrd&theme=tokyonight" width="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=othreew&theme=tokyonight" width="100%">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ojiwzrd&theme=react-dark&bg_color=0d1117&hide_border=true&color=FFD700&line=FFD700&point=ffffff&area=true)](https://github.com/ojiwzrd)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=othreew&theme=react-dark&bg_color=0d1117&hide_border=true&color=FFD700&line=FFD700&point=ffffff&area=true)](https://github.com/othreew)
 
 </div>
 
